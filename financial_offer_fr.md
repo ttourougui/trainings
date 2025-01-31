@@ -32,8 +32,8 @@ La formation est proposée à un **prix fixe** couvrant :
 |------------|----------|-------------|--------------|
 | Perte de revenu (livraison 7j + prépa 1j) | 8 jours | 800€ | 6 400€ |
 | Préparation du contenu | 5 jours | 800€ | 4 000€ |
-| Marge et valeur ajoutée (expertise et exclusivité) | - | - | 2 000€ - 4 000€ |
-| **Total estimé** | - | - | **12 000€ - 15 000€** |
+| Marge et valeur ajoutée (expertise et exclusivité) | - | - | 4 000€ |
+| **Total estimé** | - | - | **14 400€** |
 
 ### **Tarif Final**
 Le tarif global pour cette prestation est de **13 500€ - 15 000€**, indépendant du nombre de participants.
